@@ -7,9 +7,22 @@ html{
     font-size: 62.5%;
 }
 
-body{
+
+   
+
+
+main{
+    padding: 20px;
+    width: 100%;
+    margin: 0 auto;
+    background-color: lightyellow;
+}
+.main-container{
+    width: 60%;
+    margin: 0 auto;
+    text-align: left;
+    color: lightslategray;
     font-size: 3rem;
-    background-color: aquamarine;
-    color: blueviolet;
-    text-align: center;
+    border: 1px solid gray;
+    padding: 50px;
 }
