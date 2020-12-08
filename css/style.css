@@ -46,7 +46,7 @@ main{
     width: 60%;
     margin: 0 auto;
     text-align: left;
-    color: rgb(15, 135, 255);
+    color: gray;
     font-size: 3rem;
     border: 1px solid gray;
     padding: 50px;
