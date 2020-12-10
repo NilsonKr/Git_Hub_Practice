@@ -50,12 +50,13 @@ main{
 }
 .main-container{
     width: 60%;
-    margin: 0 auto;
+    margin: 15px auto;
     text-align: left;
     color: black;
     font-size: 3rem;
     border: 1px solid gray;
     padding: 50px;
+    
 }
 .footer{
     padding: 0 30px;
